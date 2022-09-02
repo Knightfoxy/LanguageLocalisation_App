@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  LocalisationApp
+
+  Created by Ayush Mishra on 18/07/22.
+  
+*/
+// MARK: - Title Arabic
+"India" = "الهند";
+"America" = "أمريكا";
+"China" = "الصين";
+"Russia" = "روسيا";
+"Dubai" = "دبي";
+"Spain" = "إسبانيا";
+
+// MARK: - Short Description
+"Country Of heritage" = "بلد التراث";
+"Center of Entertainment" = "مركز الترفيه";
+"China has a variety of beliefs." = "الصين لديها مجموعة متنوعة من المعتقدات.";
+"Russia Has 12 Active Volcanos" = "روسيا لديها 12 بركان نشط";
+"It's a very young city." = "إنها مدينة صغيرة جدًا.";
+"The EU's second-largest country" = "ثاني أكبر دولة في الاتحاد الأوروبي";
+
+
+//MARK: - Long Description
+"India is home to the famous Holi Festival." = "الهند هي موطن لمهرجان هولي الشهير.";
+"America Is Home To Many Natural Wonders" = "أمريكا هي موطن لكثير من عجائب الطبيعة";
+"Officially China has 56 ethnic groups" = "رسميا الصين لديها 56 مجموعة عرقية";
+"Tetris Was Invented in Russia." = "تم اختراع Tetris في روسيا.";
+"It has a UNESCO World Heritage Site." = "لديها موقع تراث عالمي لليونسكو.";
+"Nudity is legal in Spain." = "العُري قانوني في إسبانيا.";

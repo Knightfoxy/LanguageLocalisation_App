@@ -1,0 +1,10 @@
+/* 
+  LocalisableStrings.strings
+  LocalisationApp
+
+  Created by Ayush Mishra on 18/07/22.
+  
+*/
+"title" = "Title 1";
+"shortDescription" = "Short description 1";
+"decscription" = "Description 1";

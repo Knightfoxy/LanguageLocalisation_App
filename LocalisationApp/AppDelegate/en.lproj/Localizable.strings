@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  LocalisationApp
+
+  Created by Ayush Mishra on 18/07/22.
+  
+*/
+
+// MARK: - Title English
+"India" = "India";
+"America" = "America";
+"China" = "China";
+"Russia" = "Russia";
+"Dubai" = "Dubai";
+"Spain" = "Spain";
+
+
+// MARK: - Short Description
+"Country Of heritage" = "Country Of heritage";
+"Center of Entertainment" = "Center of Entertainment";
+"China has a variety of beliefs." = "China has a variety of beliefs.";
+"Russia Has 12 Active Volcanos" = "Russia Has 12 Active Volcanos";
+"It's a very young city." = "It's a very young city.";
+"The EU's second-largest country" = "The EU's second-largest country";
+
+
+//MARK: - Long Description
+"India is home to the famous Holi Festival." = "India is home to the famous Holi Festival.";
+"America Is Home To Many Natural Wonders" = "America Is Home To Many Natural Wonders";
+"Officially China has 56 ethnic groups" = "Officially China has 56 ethnic groups";
+"Tetris Was Invented in Russia." = "Tetris Was Invented in Russia.";
+"It has a UNESCO World Heritage Site." = "It has a UNESCO World Heritage Site.";
+"Nudity is legal in Spain." = "Nudity is legal in Spain.";

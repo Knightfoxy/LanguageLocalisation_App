@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  LocalisationApp
+
+  Created by Ayush Mishra on 18/07/22.
+  
+*/
+// MARK: - Title Espaneol
+"India" = "Indio";
+"America" = "Americana";
+"China" = "Chino";
+"Russia" = "Ruso";
+"Dubai" = "Dubái";
+"Spain" = "España";
+
+
+// MARK: - Short Description
+"Country Of heritage" = "País de herencia";
+"Center of Entertainment" = "centro de entretenimiento";
+"China has a variety of beliefs." = "China tiene una variedad de creencias.";
+"Russia Has 12 Active Volcanos" = "Rusia tiene 12 volcanes activos";
+"It's a very young city." = "Es una ciudad muy joven.";
+"The EU's second-largest country" = "El segundo país más grande de la UE";
+
+
+//MARK: - Lond Description
+"India is home to the famous Holi Festival." = "India es el hogar del famoso Festival Holi.";
+"America Is Home To Many Natural Wonders" = "Estados Unidos es el hogar de muchas maravillas naturales";
+"Officially China has 56 ethnic groups" = "Oficialmente China tiene 56 grupos étnicos";
+"Tetris Was Invented in Russia." = "La tetris fue inventada en Rusia.";
+"It has a UNESCO World Heritage Site." = "Tiene un sitio del patrimonio mundial de la UNESCO.";
+"Nudity is legal in Spain." = "La desnudez es legal en España.";
